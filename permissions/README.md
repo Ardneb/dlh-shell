@@ -18,3 +18,5 @@ This script adds execution permission to the owner group owner and user, to the 
 This scripts sets execute permissions to the other users only
 ## 9-John_Doe
 This script sets the requested permissions to the file hello
+## 10-mirror_permissions
+This script sets the mode of the file hello the sames as olleh's file
