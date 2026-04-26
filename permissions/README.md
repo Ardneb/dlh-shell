@@ -6,3 +6,5 @@ This script prints the effective username of the current user
 This script prints all the groups of the current user
 ## 3-new_owner
 This script changes the owner of the file hello to betty
+## 4-empty
+This script creates an empty file called hello
