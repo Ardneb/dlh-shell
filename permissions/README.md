@@ -14,3 +14,5 @@ This script adds execute permissions to the owner of the file hello
 This script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 ## 7-everybody
 This script adds execution permission to the owner group owner and user, to the file hello
+## 8-James_Bond
+This scripts sets execute permissions to the other users only
