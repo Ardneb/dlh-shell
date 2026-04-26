@@ -20,3 +20,5 @@ This scripts sets execute permissions to the other users only
 This script sets the requested permissions to the file hello
 ## 10-mirror_permissions
 This script sets the mode of the file hello the sames as olleh's file
+## 11-directories_permissions
+This script adds execution permissions to all subdirectories of the current directory for the owner, the group owner and all other users
