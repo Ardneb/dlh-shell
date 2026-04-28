@@ -24,3 +24,5 @@ This script sets the mode of the file hello the sames as olleh's file
 This script adds execution permissions to all subdirectories of the current directory for the owner, the group owner and all other users
 ## 12-directory_permissions
 This script creates a directory called my_dir with the permission 751
+## 13-change_group
+This script changes the group owner to school for the file hello
